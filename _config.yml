@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
+name: 'NeonSec'
+description: 'NeonSec is a Cyber Security Research Team based in India. We are a group of Cyber Security Enthusiasts who are passionate about Cyber Security and are always ready to learn new things. We are also a part of the Cyber Security Research Team at DedsecInside.'
+logo: 'assets/images/logo.jpeg'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+disqus: 'neonsec'
+email: 'thepsnarayanan@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]

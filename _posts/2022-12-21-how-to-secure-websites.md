@@ -4,6 +4,7 @@ title:  "Don't Risk It: How to Secure Your Website and Keep Your Data Safe"
 author: psn
 categories: [ Web Security, Cyber Attacks ]
 image: assets/images/monkey.png
+tags: [featured]
 ---
 Securing a website is crucial in today's digital age, where cyber threats and data breaches are becoming more and more common. A secure website not only protects the sensitive information of your users, but it also enhances the credibility and reputation of your business. In this blog post, we will discuss some essential measures you can take to secure your website.
 

@@ -19,21 +19,13 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    psn:
+      name:           PSN
+      site:           https://neonsec.in
+      avatar:         /assets/images/psn.jpeg
+      bio:            "Hi, I am PSN, the author of TorBot. I am a Cyber Security Enthusiast and Founder of DedsecInside. I am also a member of the Cyber Security Research Team at NeonSec.""
+      email:          thepsnarayanan@gmail.com
+      linkedin:       http://linkedin.com/in/0xpsn/
  
 # Defaults
 defaults:
@@ -43,8 +35,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: psn
+      avatar: /assets/images/psn.jpeg
       
   # all pages
   - scope:

@@ -3,7 +3,7 @@ layout: post
 title:  "Best Practices for Protecting Sensitive Data"
 author: psn
 categories: [ Data Security, Data Protection ]
-image: https://images.unsplash.com/photo-1523740856324-f2ce89135981?ixlib=rb-1.2.1&auto=format&fit=crop&w=798&q=80
+image: assets/images/pana.png
 ---
 
 In today's digital age, it is more important than ever to ensure the security and confidentiality of sensitive data. Whether you are a small business owner, a government agency, or an individual, it is essential to take steps to protect your sensitive information from unauthorized access, use, or disclosure.

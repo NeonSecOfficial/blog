@@ -22,7 +22,7 @@ authors:
     psn:
       name:           PSN
       site:           https://neonsec.in
-      avatar:         /assets/images/psn.jpeg
+      avatar:         assets/images/psn.jpeg
       bio:            "Hi, I am PSN, the author of TorBot. I am a Cyber Security Enthusiast and Founder of DedsecInside. I am also a member of the Cyber Security Research Team at NeonSec."
       email:          thepsnarayanan@gmail.com
       linkedin:       http://linkedin.com/in/0xpsn/

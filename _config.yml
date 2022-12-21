@@ -1,6 +1,6 @@
 # Site
 name: 'NeonSec'
-description: 'NeonSec is a Cyber Security Research Team based in India. We are a group of Cyber Security Enthusiasts who are passionate about Cyber Security and are always ready to learn new things. We are also a part of the Cyber Security Research Team at DedsecInside.'
+description: 'NeonSec is a Cyber Security Research Team based in India. We are a group of Cyber Security and Tech Enthusiasts who are passionate about Technology and are always ready to learn new things.'
 logo: 'assets/images/logo.jpeg'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
@@ -23,7 +23,7 @@ authors:
       name:           PSN
       site:           https://neonsec.in
       avatar:         assets/images/psn.jpeg
-      bio:            "Hi, I am PSN, the author of TorBot. I am a Cyber Security Enthusiast and Founder of DedsecInside. I am also a member of the Cyber Security Research Team at NeonSec."
+      bio:            "Meet PSN, the Cyber Security Enthusiast and Founder of DedsecInside who created TorBot OSINT Tool. As a member of the esteemed NeonSec research team, he's dedicated to keeping us safe in the digital age."
       email:          thepsnarayanan@gmail.com
       linkedin:       http://linkedin.com/in/0xpsn/
  

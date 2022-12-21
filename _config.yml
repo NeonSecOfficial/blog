@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'neonsec'
 email: 'thepsnarayanan@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://neonsec.us14.list-manage.com/subscribe/post?u=cbfb1a34b03f8e9fed9176ae9&amp;id=2c9c36e91d&amp;f_id=00d5ffe3f0'
 
 include: ["_pages"]
 permalink: /:title/

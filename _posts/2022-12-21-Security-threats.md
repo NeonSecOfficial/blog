@@ -3,7 +3,7 @@ layout: post
 title:  "Stay Ahead of the Game: The Top Cyber Threats to Watch Out for in 2023"
 author: psn
 categories: [Security, Cyber Threats]
-image: assets/images/kangaroo.png
+image: assets/images/kangaroo.webp
 tags: [featured]
 ---
 As we enter a new year, it's essential to stay up to date on the latest cyber threats and take steps to protect ourselves and our businesses.

@@ -3,7 +3,7 @@ layout: post
 title:  "AI and the Future: How Artificial Intelligence is Transforming Industries"
 author: psn
 categories: [ AI, Future of technology ]
-image: assets/images/synth.png
+image: assets/images/synth.webp
 tags: [featured, AI, sticky]
 ---
 

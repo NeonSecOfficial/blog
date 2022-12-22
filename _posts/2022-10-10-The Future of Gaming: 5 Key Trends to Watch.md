@@ -4,7 +4,7 @@ title:  "The Future of Gaming: 5 Key Trends to Watch"
 author: psn
 categories: [ Gaming, Future of technology ]
 image: assets/images/astro.webp
-tags: [featured, gaming, esports]
+tags: [sticky, gaming, esports]
 ---
 
 >The world of gaming is constantly evolving, and the next few years promise to bring even more exciting developments and innovations.

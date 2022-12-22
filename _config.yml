@@ -51,6 +51,8 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
+webmaster_verifications:
+  google: G-87W04YL6MZ
 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)

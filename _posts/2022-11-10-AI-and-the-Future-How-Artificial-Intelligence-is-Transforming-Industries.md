@@ -4,7 +4,7 @@ title:  "AI and the Future: How Artificial Intelligence is Transforming Industri
 author: psn
 categories: [ AI, Future of technology ]
 image: assets/images/synth.webp
-tags: [featured, AI, sticky]
+tags: [featured, AI]
 ---
 
 AI has been a hot topic for decades, and for good reason. It has the potential to revolutionize many industries and change the way we live our lives. But what exactly is AI, and where is it headed in the future?

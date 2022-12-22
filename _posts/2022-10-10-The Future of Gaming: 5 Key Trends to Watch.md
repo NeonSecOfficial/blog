@@ -3,7 +3,7 @@ layout: post
 title:  "The Future of Gaming: 5 Key Trends to Watch"
 author: psn
 categories: [ Gaming, Future of technology ]
-image: assets/images/synth.webp
+image: assets/images/astro.webp
 tags: [featured, gaming, esports]
 ---
 

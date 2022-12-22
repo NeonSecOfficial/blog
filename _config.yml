@@ -21,7 +21,7 @@ plugins:
 authors:
     psn:
       name:           PSN
-      site:           https://neonsec.in
+      site:           https://github.com/psnappz
       avatar:         assets/images/psn.webp
       bio:            "Meet PSN, the Cyber Security Enthusiast and Founder of DedsecInside who created TorBot OSINT Tool. As a member of the esteemed NeonSec research team, he's dedicated to keeping us safe in the digital age."
       email:          thepsnarayanan@gmail.com

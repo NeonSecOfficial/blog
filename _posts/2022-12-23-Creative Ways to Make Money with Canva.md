@@ -4,7 +4,7 @@ title:  "Creative Ways to Make Money using Canva with 0 investment"
 author: psn
 categories: [Canva, Design, Graphic Design, Etsy, Creative Market, Fiverr, Upwork]
 image: assets/images/art.webp
-tags: [sticky]
+tags: [sticky, how to make money, canva, featured, graphic design, make money online]
 ---
 
 >Are you a creative person with an eye for design, but don't have the budget to invest in expensive software like Adobe Photoshop or Illustrator? Don't worry – you can still make money using your design skills with the help of Canva, a free and user-friendly graphic design platform.

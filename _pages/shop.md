@@ -8,8 +8,8 @@ permalink: "/shop.html"
       var aax_size='300x600';
       var aax_pubname = 'psnappz-21';
       var aax_src='302';
-    </script>
-    <script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
+</script>
+<script type="text/javascript" language="javascript" src="http://c.amazon-adsystem.com/aax2/assoc.js"></script>
     
 
 

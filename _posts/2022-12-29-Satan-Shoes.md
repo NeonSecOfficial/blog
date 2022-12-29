@@ -11,24 +11,24 @@ tags: [nike, fashion, sneakers]
 
 The Satan Shoes caused controversy due to their association with Satanism and the use of pentagrams and other satanic imagery. In addition, it was reported that the shoes contained a drop of human blood in the air bubble of each shoe, which sparked outrage and accusations of blasphemy.
 
-![nike satan shoes](assets/images/shoe1.jpg)
+![nike satan shoes](/assets/images/shoe1.jpg)
 
 However, MSCHF has denied that the shoes contain human blood, stating that the red substance in the air bubble is actually red ink mixed with a "proprietary blend" of other ingredients.
 
 Despite the controversy, the Satan Shoes sold out within minutes of going on sale, with each pair being sold for $1,018. The shoes have also gained a significant amount of media attention and have been the subject of numerous news articles and social media posts.
 
-![nike satan shoes](assets/images/shoe2.jpg)
+![nike satan shoes](/assets/images/shoe2.jpg)
 
 
 The shoes were released in conjunction with Lil Nas X's new music video for his song "Montero (Call Me By Your Name)," which features the artist dancing with Satan and giving him a lap dance. The music video and the Satan Shoes have both been described as a commentary on religion and the LGBTQ+ community.
 
 The release of the Satan Shoes has sparked a legal battle between MSCHF and Nike. Nike has filed a lawsuit against MSCHF, alleging trademark infringement and dilution, as well as unfair competition. The company is seeking an injunction to prevent MSCHF from selling the Satan Shoes and to have all remaining pairs of the shoes destroyed.
 
-![nike satan shoes](assets/images/shoe3.jpg)
+![nike satan shoes](/assets/images/shoe3.jpg)
 
 The Satan Shoes have received mixed reactions from the public. Some people have praised the shoes as a bold and creative statement, while others have criticized them as inappropriate and offensive. The shoes have also been the subject of numerous online memes and parodies.
 
-![nike satan shoes](assets/images/shoe4.jpg)
+![nike satan shoes](/assets/images/shoe4.jpg)
 
 The controversy surrounding the Satan Shoes has raised questions about the role of art and free expression in society. While some people argue that the shoes are a form of artistic expression that should be protected, others argue that they are in poor taste and offensive to certain groups of people.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Understanding DeFi Security: A Beginner's Guide to Decentralized Finance"
 author: psn
 categories: [DeFi, Security]
-image: assets/images/defi.webp
+image: assets/images/Defi.webp
 tags: [ASMR, featured, sticky]
 ---
 

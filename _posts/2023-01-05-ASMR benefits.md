@@ -4,7 +4,7 @@ title: "The Surprising Benefits of ASMR: How Whispering and Tapping Sounds Can H
 author: psn
 categories: [ASMR, health]
 image: assets/images/asmr.webp
-tags: [ASMR, featured, sticky]
+tags: [ASMR, featured]
 ---
 
 >ASMR, or Autonomous Sensory Meridian Response, is a physical sensation characterized by a tingling sensation that typically begins in the scalp and moves down the spine. It is often triggered by auditory stimuli, such as whispering, tapping, or crinkling sounds, and is known to produce feelings of relaxation and well-being in those who experience it.

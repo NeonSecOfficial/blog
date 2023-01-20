@@ -4,7 +4,7 @@ title: "Understanding DeFi Security: A Beginner's Guide to Decentralized Finance
 author: psn
 categories: [DeFi, Security]
 image: assets/images/Defi.webp
-tags: [DeFi, featured, sticky]
+tags: [DeFi, Security]
 ---
 
 >Decentralized finance, or DeFi for short, has taken the financial world by storm in recent years. By leveraging blockchain technology, DeFi platforms offer a wide range of financial services such as lending, borrowing, and trading, all without the need for a central authority.

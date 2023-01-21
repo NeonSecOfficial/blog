@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Creative Ways to Make Money using Canva with 0 investment"
+title:  "Unlock the earning potential of Canva with zero investment"
 author: psn
 categories: [Canva, Design, Graphic Design, Etsy, Creative Market, Fiverr, Upwork]
 image: assets/images/art.webp

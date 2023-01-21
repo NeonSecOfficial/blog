@@ -5,6 +5,7 @@ author: psn
 categories: [ MacBook, Apple, Future of technology ]
 image: assets/images/macbook.webp
 tags: [sticky]
+keywords: MacBook, Apple, Future of technology, Macbook Pro M2, MacbookPro m2 price
 ---
 
 Apple has just announced the new 14-inch and 16-inch MacBook Pro, featuring M2 Pro and M2 Max, the company's next-generation pro silicon. The new MacBook Pro promises to bring even more power-efficient performance and battery life to pro users, with tasks such as effects rendering up to 6x faster than the fastest Intel-based MacBook Pro, and colour grading up to 2x faster. With M2 Pro and M2 Max, the MacBook Pro also boasts the longest battery life ever in a Mac, up to 22 hours.

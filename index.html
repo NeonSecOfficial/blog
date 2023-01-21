@@ -128,11 +128,32 @@ description: "NeOnSec is a blog about Cyber Security, Hacking, Programming, and 
                     </small>
                 </div>
             </div>
+             <!-- Add an image with hyperlink-->
+        <div class="mb-3 d-flex align-items-center">    
+                        
+            <div class="col-md-4">
+                <a href="https://amzn.to/3XOXDkK">
+                    <img class="w-100" src="{{site.baseurl}}/assets/images/prime_music.jpg" alt="Amazon Prime Music">
+                </a>
+            </div>
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="{{site.baseurl}}{{fourth_post.url}}">100 million Songs, ad-Free. Over 15 million podcast episodes</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        On <span class="catlist">
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">Amazon Prime Music Only</a><span class="sep">, </span>
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                      Jan 21, 2023
+                    </small>
+                </div>
+    </div>
         
     </div>
     
 </div>
-    
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}
@@ -170,11 +191,26 @@ description: "NeOnSec is a blog about Cyber Security, Hacking, Programming, and 
         
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
-
+        {% assign i = 0 %}
         {% for post in paginator.posts %}
-        
             {% include main-loop-card.html %}
-        
+
+            {% if i == 4 and paginator.page == 1 %}
+
+                <!-- In Feed Ad-->
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3041411382010702"
+                    crossorigin="anonymous"></script>
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-format="fluid"
+                    data-ad-layout-key="-g6-1z+6p-kf+fp"
+                    data-ad-client="ca-pub-3041411382010702"
+                    data-ad-slot="5050005917"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            {% endif %}
+            {% assign i = i | plus:1 %}
         {% endfor %}
         
         <div class="mt-5">
@@ -211,6 +247,17 @@ description: "NeOnSec is a blog about Cyber Security, Hacking, Programming, and 
     <div class="col-md-4">
         {% include sidebar-featured.html %}    
     </div>
+    <!--Multi plex ad-->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3041411382010702"
+				crossorigin="anonymous"></script>
+			<ins class="adsbygoogle"
+				style="display:block"
+				data-ad-format="autorelaxed"
+				data-ad-client="ca-pub-3041411382010702"
+				data-ad-slot="9372394301"></ins>
+			<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
     
 </div>
 

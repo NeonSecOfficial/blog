@@ -187,8 +187,7 @@ description: "NeOnSec is a blog about Cyber Security, Hacking, Programming, and 
         {% for post in paginator.posts %}
             {% include main-loop-card.html %}
 
-            {% if count == 4 and paginator.page == 1 %}
-            {{forloop.index}}
+            {% if i == 4 and paginator.page == 1 %}
 
                 <!-- In Feed Ad-->
                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3041411382010702"

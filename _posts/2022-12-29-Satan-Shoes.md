@@ -3,7 +3,7 @@ layout: post
 title:  "The Devil is in the Details: The Story Behind the Nike Satan Shoes"
 author: psn
 categories: [ Nike, Sneakers ]
-image: assets/images/main.jpg
+image: assets/images/main.webp
 tags: [nike, fashion, sneakers]
 ---
 

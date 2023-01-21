@@ -15,6 +15,19 @@ The Satan Shoes caused controversy due to their association with Satanism and th
 
 However, MSCHF has denied that the shoes contain human blood, stating that the red substance in the air bubble is actually red ink mixed with a "proprietary blend" of other ingredients.
 
+<!--Native In Post Ad -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3041411382010702"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-3041411382010702"
+     data-ad-slot="7081272889"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Despite the controversy, the Satan Shoes sold out within minutes of going on sale, with each pair being sold for $1,018. The shoes have also gained a significant amount of media attention and have been the subject of numerous news articles and social media posts.
 
 ![nike satan shoes](/assets/images/shoe2.jpg)

@@ -174,6 +174,21 @@ description: "NeOnSec is a blog about Cyber Security, Hacking, Programming, and 
         {% for post in paginator.posts %}
         
             {% include main-loop-card.html %}
+
+            {% if forloop.index == 4 and paginator.page == 1 %}
+                <!-- In Feed Ad-->
+                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3041411382010702"
+                    crossorigin="anonymous"></script>
+                <ins class="adsbygoogle"
+                    style="display:block"
+                    data-ad-format="fluid"
+                    data-ad-layout-key="-g6-1z+6p-kf+fp"
+                    data-ad-client="ca-pub-3041411382010702"
+                    data-ad-slot="5050005917"></ins>
+                <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+            {% endif %}
         
         {% endfor %}
         
@@ -211,6 +226,17 @@ description: "NeOnSec is a blog about Cyber Security, Hacking, Programming, and 
     <div class="col-md-4">
         {% include sidebar-featured.html %}    
     </div>
+    <!--Multi plex ad-->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3041411382010702"
+				crossorigin="anonymous"></script>
+			<ins class="adsbygoogle"
+				style="display:block"
+				data-ad-format="autorelaxed"
+				data-ad-client="ca-pub-3041411382010702"
+				data-ad-slot="9372394301"></ins>
+			<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
     
 </div>
 

@@ -177,7 +177,7 @@ description: "NeOnSec is a blog about Cyber Security, Hacking, Programming, and 
         
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
-        {% count = 0 %}
+        {% assign i = 0 %}
         {% for post in paginator.posts %}
             {% include main-loop-card.html %}
 
@@ -197,7 +197,7 @@ description: "NeOnSec is a blog about Cyber Security, Hacking, Programming, and 
                     (adsbygoogle = window.adsbygoogle || []).push({});
                 </script>
             {% endif %}
-        {% count = count + 1 %}
+            {% assign i = i | plus:1 %}
         {% endfor %}
         
         <div class="mt-5">

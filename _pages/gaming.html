@@ -7,7 +7,8 @@ permalink: "/gaming.html"
 
 <div class="container">
   {% if page.url == "/gaming.html" %}
-  {%- assign site.posts = site.posts | where: "post.tags","gaming"  -%}  
+  {%- assign gaming_posts = site.posts | where: "tags", "gaming" -%}
+
       
   <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
   <div class="row remove-site-content-margin">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Future of Gaming: 5 Key Trends to Watch"
-author: psn
+author: alec
 categories: [ Gaming, Future of technology ]
 image: assets/images/astro.webp
 tags: [gaming, esports]

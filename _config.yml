@@ -26,7 +26,22 @@ authors:
       bio:            "Meet PSN, the Cyber Security Enthusiast and Founder of DedsecInside who created TorBot OSINT Tool. As a member of the esteemed NeonSec research team, he's dedicated to keeping us safe in the digital age."
       email:          thepsnarayanan@gmail.com
       linkedin:       http://linkedin.com/in/0xpsn/
- 
+
+    nathalie:
+      name:           Natalie Williams
+      site:           
+      avatar:         assets/images/natalie.webp
+      bio:            "Natalie is a professional software architect based in the UK with over five years of experience in the field. She is a security and technology enthusiast, always keeping up with the latest developments in the industry. With her expertise in software architecture and passion for technology, Natalie brings a unique perspective to her writing."
+      email:          natalie.williams94@gmail.com
+      linkedin:  
+
+    alec:
+      name:           Alec Sanderson
+      site:           
+      avatar:         assets/images/alec.webp
+      bio:            "Alec is a professional Dota 2 gamer from the United States. He is an expert in the latest games and gaming technology, and is particularly interested in the advancements in virtual reality and augmented reality. In addition to his gaming career, Alec is also a VR and AR developer, constantly pushing the boundaries of what's possible in the gaming world. His blog is a great resource for anyone looking to stay up-to-date on the latest developments in gaming and technology."
+      email:          alec.xxxxxx0@gmail.com
+      linkedin:       
 # Defaults
 defaults:
 

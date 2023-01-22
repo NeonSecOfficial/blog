@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Best Practices for Protecting Sensitive Data"
-author: psn
+author: natalie
 categories: [ Data Security, Data Protection ]
 image: assets/images/panda.webp
 tags: [data-security]

@@ -4,7 +4,7 @@ title:  "Pro Performance on the Go: The New MacBook Pro with M2 Pro and M2 Max"
 author: psn
 categories: [ MacBook, Apple, Future of technology ]
 image: assets/images/macbook.webp
-tags: [sticky]
+tags: [macbook, apple, future of technology, macbook pro m2, macbookpro m2 price]
 keywords: MacBook, Apple, Future of technology, Macbook Pro M2, MacbookPro m2 price
 ---
 

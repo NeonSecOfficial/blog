@@ -14,7 +14,7 @@ permalink: "/gaming.html"
   <div class="row remove-site-content-margin">
       
       <!-- get latest post where tag has gaming in it-->
-      {% assign latest_post = site.posts[0] %}
+      {% assign latest_post = gaming_posts[0] %}
       
       <div class="col-md-6">
       <div class="card border-0 mb-4 box-shadow">   
@@ -47,7 +47,7 @@ permalink: "/gaming.html"
       <div class="col-md-6">
           
           <!-- second latest post in gaming -->
-          {% assign latest_post = site.posts[1] %}
+          {% assign latest_post = gaming_posts[1] %}
           <div class="mb-3 d-flex align-items-center">                
                   {% if second_post.image %}
                   <div class="col-md-4">
@@ -74,7 +74,7 @@ permalink: "/gaming.html"
               </div>
           
           <!-- third latest post -->
-          {%- assign third_post = site.posts[2] -%}        
+          {%- assign third_post = gaming_posts[2] -%}        
           <div class="mb-3 d-flex align-items-center">                
                   {% if third_post.image %}
                   <div class="col-md-4">
@@ -101,7 +101,7 @@ permalink: "/gaming.html"
               </div>
           
           <!-- fourth latest post -->
-          {%- assign fourth_post = site.posts[3] -%}        
+          {%- assign fourth_post = gaming_posts[3] -%}        
           <div class="mb-3 d-flex align-items-center">                
                   {% if fourth_post.image %}
                   <div class="col-md-4">
@@ -153,7 +153,7 @@ permalink: "/gaming.html"
       
   </div>
   <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-  {% for post in site.posts %} 
+  {% for post in gaming_posts %} 
   {% if post.tags contains "sticky" %}
   <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
       <div class="pl-4 pr-0 h-100 tofront">
@@ -190,7 +190,7 @@ permalink: "/gaming.html"
           <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
           
           {% assign i = 0 %}
-          {% for post in paginator.posts %}
+          {% for post in paginator.gaming_posts %}
               {% include main-loop-card.html %}
   
               {% if i == 4 and paginator.page == 1 %}

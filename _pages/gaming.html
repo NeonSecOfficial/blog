@@ -13,7 +13,7 @@ permalink: "/gaming.html"
   <div class="row remove-site-content-margin">
       
       <!-- get latest post where tag has gaming in it-->
-      {%- assign latest_post = site.posts | where_exp: "post.tags contains 'gaming'" | first -%}
+      {%- assign latest_post = site.posts | where: "post.tags","gaming" | first -%}
       
       <div class="col-md-6">
       <div class="card border-0 mb-4 box-shadow">   
@@ -46,7 +46,7 @@ permalink: "/gaming.html"
       <div class="col-md-6">
           
           <!-- second latest post in gaming -->
-          {%- assign second_post = site.posts | where_exp: "post", "post.tags contains 'gaming'" | second -%}
+          {%- assign latest_post = site.posts | where: "post.tags","gaming" | first -%}
           <div class="mb-3 d-flex align-items-center">                
                   {% if second_post.image %}
                   <div class="col-md-4">

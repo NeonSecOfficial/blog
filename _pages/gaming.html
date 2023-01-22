@@ -45,7 +45,8 @@ permalink: "/gaming.html"
       </div>
       
       <div class="col-md-6">
-          
+          <!-- Only display if more than 3 posts are available-->
+          {% if gaming_posts.size > 3 %}
           <!-- second latest post in gaming -->
           {% assign latest_post = gaming_posts[1] %}
           <div class="mb-3 d-flex align-items-center">                
@@ -126,6 +127,7 @@ permalink: "/gaming.html"
                       </small>
                   </div>
               </div>
+              {% endif %}
                <!-- Add an image with hyperlink-->
           <div class="mb-3 d-flex align-items-center">    
                           

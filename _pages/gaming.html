@@ -6,7 +6,7 @@ permalink: "/gaming.html"
 
 
 <div class="container">
-    {% page.url %}
+    {{ page.url }}
   {% if page.url == "gaming" %}
       
       
@@ -14,7 +14,7 @@ permalink: "/gaming.html"
   <div class="row remove-site-content-margin">
       
       <!-- get latest post where tag has gaming in it-->
-      {%- assign latest_post = site.posts | where_exp: "post", "post.tags contains 'gaming'" | first -%}
+      {%- assign latest_post = site.posts | where_exp: "post.tags contains 'gaming'" | first -%}
       
       <div class="col-md-6">
       <div class="card border-0 mb-4 box-shadow">   

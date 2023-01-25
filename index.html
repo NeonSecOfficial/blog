@@ -16,8 +16,8 @@ description: "NeOnSec is a blog about Cyber Security, Hacking, Programming, and 
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
     
-    <!-- latest post -->
-    {% assign latest_post = site.posts[0] %}
+    <!-- latest post where tage not equals gaming -->
+    {% assign latest_post = site.posts | where_exp: "posts", "posts.tags[0] != 'gaming'" | first %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">

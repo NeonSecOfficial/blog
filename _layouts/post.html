@@ -19,7 +19,7 @@ layout: default
                         {% if author.avatar %}
                         <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
                         {% endif %}
-						<small class="ml-3"> {{ author.name }} <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span>
+						<small class="ml-3">  <a href="#author-sec"> <author> {{ author.name }}</author> </a> {% if author.twitter %} <span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span> {% endif %}
                             <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 						</small>
 					</div>
@@ -116,7 +116,7 @@ layout: default
             
              <!-- Author Box -->
                 {% if page.author %}				
-				<div class="row mt-5">
+				<div class="row mt-5" id="author-sec">
 					<div class="col-md-2 align-self-center">
                          {% if author.avatar %}
                         <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
@@ -124,7 +124,7 @@ layout: default
 					</div>
 					<div class="col-md-10">		
                         <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
-						{{ author.bio }}					
+						<bio>{{ author.bio }} </bio>			
 					</div>
 				</div>				
                 {% endif %}

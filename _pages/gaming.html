@@ -5,7 +5,9 @@ permalink: "/gaming.html"
 ---
 
 
+
 <div class="container">
+    <center><h1>EVERYTHING GAMING</h1></center><br><br>
   {% if page.url == "/gaming.html" %}
   {%- assign gaming_posts = site.posts | where: "tags", "gaming" -%}
 
@@ -181,7 +183,9 @@ permalink: "/gaming.html"
   
   {% endif %} <!--endif page url is / -->
       
+  <!-- Reviews and Buying Guides-->
   
+ 
   
   <!-- Now the rest of the posts with the usual loop but with an offset:4 on the first page so we can skeep the first 4 posts displayed above -->
       
@@ -192,8 +196,8 @@ permalink: "/gaming.html"
           <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
           
           {% assign i = 0 %}
-          {% for post in paginator.gaming_posts %}
-              {% include main-loop-card.html %}
+        {% for post in gaming_posts %}
+            {% include main-loop-card.html %}
   
               {% if i == 4 and paginator.page == 1 %}
   
@@ -245,7 +249,18 @@ permalink: "/gaming.html"
       </div>
       
       <div class="col-md-4">
-          {% include sidebar-featured.html %}    
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3041411382010702"
+        crossorigin="anonymous"></script>
+   <!-- Sidebar Ads -->
+   <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="ca-pub-3041411382010702"
+        data-ad-slot="4230822224"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+   <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+   </script>
       </div>
       <!--Multi plex ad-->
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3041411382010702"

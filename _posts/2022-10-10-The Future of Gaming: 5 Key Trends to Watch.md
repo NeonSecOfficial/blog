@@ -4,7 +4,8 @@ title:  "The Future of Gaming: 5 Key Trends to Watch"
 author: alec
 categories: [ Gaming, Future of technology ]
 image: assets/images/astro.webp
-tags: [gaming, esports]
+tags: [gaming, esports, sticky-gaming]
+keywords: [gaming, esports, VR games, top AR games, best VR games, upcoming ar games, upcoming VR games]
 ---
 
 >The world of gaming is constantly evolving, and the next few years promise to bring even more exciting developments and innovations.
@@ -21,5 +22,5 @@ tags: [gaming, esports]
 
 5. AI and machine learning will play a larger role in games: Artificial intelligence (AI) and machine learning have already had an impact on gaming, but their influence is likely to grow in the coming years. Games that use AI and machine learning to generate procedurally generated content or adapt to players' behavior are becoming more common, and this trend is likely to continue. Additionally, we may see more games that use AI to create unique and personalized experiences for players.
 
-Overall, the future of gaming looks bright, with a wide range of exciting developments and innovations on the horizon. Whether you're a hardcore gamer or just a casual player, there's sure to be something new and exciting to look forward to.
+With a wide range of exciting developments and innovations on the horizon the future of gaming looks bright. Whether you're a hardcore gamer or just a casual player, there's sure to be something new and exciting to look forward to.
 

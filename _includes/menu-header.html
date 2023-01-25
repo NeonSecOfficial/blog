@@ -1,14 +1,95 @@
 <!--  Replace menu links here -->
+<style>
+@font-face {
+    font-family: 'upheaval';
+    src: url('/assets/fonts/upheavtt-webfont.woff2') format('woff2'),
+         url('/assets/fonts/upheavtt-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
+@font-face {
+    font-family: 'uper';
+    src: url('/assets/fonts/aper-reg.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'uper-bold';
+    src: url('/assets/fonts/aper.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mono';
+    src: url('/assets/fonts/mono.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.navbar-brand, .nav-item {
+    color: #000 !important;
+    font-family: 'mono';
+}
+.nav-item:hover {
+    color: #000 !important;
+    text-decoration: underline;
+}
+
+.h4, h5, h3, h1 {
+    font-family: 'uper-bold';
+}
+
+::selection {
+  background: rgb(25, 255, 40);
+}
+
+.excerpt, .btn, .text-small, p, bio, textarea, input{
+    
+    font-family: 'uper';
+}
+.text-muted {
+    font-family: 'mono';
+}
+
+a.text-dark:hover{
+    color:rgb(33, 192, 139)!important;
+}
+
+.highlight {
+    background: rgb(148, 255, 25);
+}
+
+mark {
+    display: inline-block;
+  line-height: 0em;
+  padding-bottom: 0.5em;
+  background-color: rgb(232, 254, 142);
+  
+}
+
+author {
+    display: inline-block;
+  line-height: 100%;
+  padding: 0.5em;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-family: 'mono';
+}
+
+author:hover {
+    text-decoration: underline;
+}
+
+</style>
 <li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/index.html">Home</a>
+<a class="nav-link" href="{{site.baseurl}}/index.html" style="font-size: 11px;">HOME</a>
 </li>
 <li class="nav-item">
-    <a class="nav-link" href="{{site.baseurl}}/gaming.html">Gaming</a>
+    <a class="nav-link" href="{{site.baseurl}}/gaming.html" style="font-size: 11px;">GAMING</a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/authors-list.html">Authors</a>
-</li>
-<li class="nav-item">
-<a class="nav-link" href="{{site.baseurl}}/contact.html">Contact</a>
+<a class="nav-link" href="{{site.baseurl}}/contact.html" style="font-size: 11px;">CONTACT</a>
 </li>

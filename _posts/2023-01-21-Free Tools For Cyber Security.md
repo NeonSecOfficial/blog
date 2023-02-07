@@ -4,7 +4,7 @@ title:  "From vulnerability scanners to intrusion detection systems, these free 
 author: psn
 categories: [ Cyber Security, Enterprise Security, Free Security Tools ]
 image: assets/images/security.webp
-tags: [security, tools, open-source, sticky]
+tags: [security, tools, open-source]
 ---
 
 >In today's digital age, cybersecurity is more important than ever for businesses of all sizes. However, with tight budgets and limited resources, many enterprises may struggle to find the funds for expensive security solutions. Fortunately, there are many free tools available that can help protect your business from cyber threats.
